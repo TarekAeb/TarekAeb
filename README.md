@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TarekAeb
-- 👀 I’m interested in everything concerning programming and so on.
+- 👀 I’m interested in penetration testing and problem solving.
 - 🌱 I’m currently learning AI, cybersecurity,...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail: t6tarek@gmail.com ins:tarek.aeb
