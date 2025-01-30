@@ -34,7 +34,7 @@ Hello! I'm a dedicated Web Developer and Computer Science student, majoring in A
 
 
 <div width="100%" align="center"><a href="https://github.com/TarekAeb/school-managment-system-in-QT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TarekAeb&repo=school-managment-system-in-QT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarekaeb&" alt="tarekaeb" /></p>
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
