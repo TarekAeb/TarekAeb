@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SIBACHIR Abdelbari Tarek
 ================================================================================================================================================
 
-Web Developer and designer
+Software engineer
 --------------------------
 
-Hello! I'm a dedicated Web Developer and Computer Science student, majoring in Artificial Intelligence at the National High School of Artificial Intelligence (ENSIA), Algeria, expecting to graduate in June 2028. I have a deep passion for building dynamic and user-friendly web applications that offer real-world solutions through innovative technologies. My academic journey and hands-on projects have equipped me with a strong foundation in frontend and backend development, as well as a keen interest in data structures, algorithms, and network security.
+Hello! I'm a dedicated Software engineer and Computer Science student, majoring in Artificial Intelligence at the National High School of Artificial Intelligence (ENSIA), Algeria, expecting to graduate in June 2028. I have a deep passion for building dynamic and user-friendly web applications that offer real-world solutions through innovative technologies. My academic journey and hands-on projects have equipped me with a strong foundation in frontend and backend development, as well as a keen interest in data structures, algorithms, and network security.
 
 * 🌍  I'm based in Algiers, Algeria
 * 🖥️  See my portfolio at [MyPortfolio](http://abdelbari-tarek-sibachir.netlify.app/)
