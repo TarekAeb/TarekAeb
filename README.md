@@ -7,8 +7,8 @@ Software engineer
 Hello! I'm a dedicated Software engineer and Computer Science student, majoring in Artificial Intelligence at the National High School of Artificial Intelligence (ENSIA), Algeria, expecting to graduate in June 2028. I have a deep passion for building dynamic and user-friendly web applications that offer real-world solutions through innovative technologies. My academic journey and hands-on projects have equipped me with a strong foundation in frontend and backend development, as well as a keen interest in data structures, algorithms, and network security.
 
 * 🌍  I'm based in Algiers, Algeria
-* 🖥️  See my portfolio at [MyPortfolio](http://abdelbari-tarek-sibachir.netlify.app/)
-* ✉️  You can contact me at [abdelbari.tarek.sibachir@ensia.edu.dz](mailto:abdelbari.tarek.sibachir@ensia.edu.dz)
+* 🖥️  See my portfolio at [MyPortfolio](http://abdelbari.netlify.app/)
+* ✉️  You can contact me at [tareksibachir01@gmail.com](mailto:tareksibachir01@gmail.com)
 * 🧠  I'm learning machine learning
 * 🤝  I'm open to collaborating on basically any project that has a relation with tec no matter what
 
