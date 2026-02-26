@@ -25,21 +25,4 @@ Hello! I'm a dedicated Software engineer and Computer Science student, majoring 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TarekAeb"><img src="https://github-readme-stats.vercel.app/api?username=TarekAeb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TarekAeb's GitHub stats" /></a>
-
 <a href="http://www.github.com/TarekAeb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TarekAeb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/TarekAeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAeb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-<div width="100%" align="center"><a href="https://github.com/TarekAeb/school-managment-system-in-QT" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TarekAeb&repo=school-managment-system-in-QT&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/t6tarek8"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/tarek_aeb"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
