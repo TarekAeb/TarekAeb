@@ -1,12 +1,6 @@
 Hi ! It's Tarek
 ================================================================================================================================================
 
-Software engineer
---------------------------
-
-Hello! I'm a dedicated Software engineer and Computer Science student, majoring in Artificial Intelligence. My academic journey and hands-on projects have equipped me with a strong foundation in frontend and backend development, as well as a keen interest in data structures, algorithms, and network security.
-
-
 * 🖥️  See my portfolio at [MyPortfolio](http://abdelbari.netlify.app/)
 * ✉️  You can contact me at [tareksibachir01@gmail.com](mailto:tareksibachir01@gmail.com)
 * 🤝  I'm open to collaborating on basically any project that has a relation with tec no matter what
